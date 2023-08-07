@@ -25,7 +25,7 @@ public void register() throws InterruptedException
 Thread.sleep(6000);
 createacpage ob = new  createacpage (driver);
 ob.setValue1("ammu");
-ob.setValue2("astdvafm@gmail.com");
+ob.setValue2("annuudvafm@gmail.com");
 ob.setValue3("6988788999");
 ob.submit();
 

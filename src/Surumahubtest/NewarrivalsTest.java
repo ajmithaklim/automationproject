@@ -14,8 +14,6 @@ public class NewarrivalsTest {
 		public void setup()
 		{
 		driver = new ChromeDriver();
-
-		///////////////driver.navigate().to("https://suruma.in/user-home");//////////ith alla url in aanu
 		driver.get("https://suruma.in/");
 		
 		}
